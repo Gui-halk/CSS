@@ -1,0 +1,28 @@
+a:link {
+    color: #00F;
+   }
+   
+   a:visited {
+    color: #F00;
+   }
+   a:hover {
+       color: green;
+   }
+   .vermelho {
+    color: #F00;
+    font-size: 20px;
+   }
+   .azul {
+    color: #00F;
+    font-size: 20px;
+   }
+   .roxo {
+    color: purple;
+    font-size: 20px;
+   }
+   #email {
+    border-color: #F00;
+   }
+   #nome {
+    border-color: aqua;
+   }
