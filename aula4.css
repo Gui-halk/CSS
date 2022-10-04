@@ -1,0 +1,42 @@
+.scroll {
+    position: static;
+    overflow: scroll;
+    width: 250px;
+    height: 250px;
+    background-color: green;
+}
+
+.hidden {
+    position: relative;
+    left: 300px;
+    bottom: 250px;
+    overflow: hidden;
+    width: 250px;
+    height: 250px;
+    background-color: yellowgreen;
+}
+
+.auto {
+    position: relative;
+    left: 600px;
+    bottom: 500px;
+    overflow: auto;
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+}
+
+.visible {
+    position: relative;
+    left: 900px;
+    bottom: 770px;
+    overflow: visible;
+    width: 250px;
+    height: 250px;
+    background-color: green;
+}
+
+.display {
+    display: inline-block;
+    background-color: red;
+}

@@ -1,0 +1,48 @@
+
+
+body {
+    height: 300vh;
+}
+
+
+
+#azul {
+    position: static;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#laranja {
+    position: static;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+}
+
+#verde {
+    position: relative;
+    top: 300px;
+    left: 250px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#absolute {
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#fixed {
+    position: fixed;
+    top: 300px;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
