@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@font-face {
+    font-family: 'Play';
+    src: url('Play-Bold.ttf');
+    src: url('Play-Regular.ttf');
+}
+
+
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-indent: 40px;
+    width: 500px;
+    color: darkgrey;
+}
+
+h1,h2{
+    color: black;
+    font-family: 'Play';
+    font-size: 16px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+li{
+    float: left;
+    margin-left: 20px;
+}
+
+td, tr{
+    border: 1px solid black;
+}
+
+tbody > tr:nth-child(2n){
+    background-color: aqua;
+}
