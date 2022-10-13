@@ -1,0 +1,23 @@
+:root{
+    --cor-primaria: rgb(233, 16, 16);
+    --cor-secundaria: rgb(0, 0, 0);
+}
+
+
+
+a{
+    text-decoration: none;
+    
+}
+
+.botao{
+    border: none;
+    padding: 40px;
+    background-color: var(--cor-primaria);
+    cursor: pointer;
+    transition: background 1s;
+}
+
+.botao:hover{
+    background-color: var(--cor-secundaria);
+}
