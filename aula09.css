@@ -1,0 +1,175 @@
+.field-red {
+  margin: 5% auto;
+  display: table;
+}
+
+.ghost-red {
+  margin: 25px;
+  height: 200px;
+  width: 200px;
+  position: relative;
+}
+.head-red {
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  height: 100px;
+  width: 152px;
+  background: red;
+  position: relative;
+}
+.head-red .eye-red,
+.head-red .eyeBack-red {
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  position: relative;
+}
+.head-red .eyeBack-red {
+  height: 50px;
+  width: 50px;
+  background: white;
+}
+.head-red .eyeBack-red:first-child {
+  margin: 50px 0 0 25px;
+  float: left;
+}
+.head-red .eyeBack-red:last-child {
+  margin: 50px 25px 0 0;
+  float: right;
+}
+.head-red .eye-red {
+  margin: 20% auto;
+  height: 25px;
+  width: 25px;
+  background: #0d2bd7;
+}
+.legs-red {
+  height: 40px;
+  width: 0;
+  border-right: 38px solid red;
+  border-left: 38px solid red;
+  border-bottom: 40px solid transparent;
+  display: block;
+  float: left;
+}
+
+
+.field-blue {
+    margin: 5% auto;
+    display: table;
+}
+  
+.ghost-blue {
+    margin: 25px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+.head-blue {
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 100px;
+    width: 152px;
+    background: blue;
+    position: relative;
+}
+.head-blue .eye-blue,
+.head-blue .eyeBack-blue {
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+}
+.head-blue .eyeBack-blue {
+    height: 50px;
+    width: 50px;
+    background: white;
+}
+.head-blue .eyeBack-blue:first-child {
+    margin: 50px 0 0 25px;
+    float: left;
+}
+.head-blue .eyeBack-blue:last-child {
+    margin: 50px 25px 0 0;
+    float: right;
+}
+.head-blue .eye-blue {
+    margin: 20% auto;
+    height: 25px;
+    width: 25px;
+    background: #0d2bd7;
+}
+.legs-blue {
+    height: 40px;
+    width: 0;
+    border-right: 38px solid blue;
+    border-left: 38px solid blue;
+    border-bottom: 40px solid transparent;
+    display: block;
+    float: left;
+}
+
+
+.field-yellow {
+    margin: 5% auto;
+    display: table;
+}
+  
+.ghost-yellow {
+    margin: 25px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+.head-yellow {
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 100px;
+    width: 152px;
+    background: yellow;
+    position: relative;
+}
+.head-yellow .eye-yellow,
+.head-yellow .eyeBack-yellow {
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    position: relative;
+}
+.head-yellow .eyeBack-yellow {
+    height: 50px;
+    width: 50px;
+    background: white;
+}
+.head-yellow .eyeBack-yellow:first-child {
+    margin: 50px 0 0 25px;
+    float: left;
+}
+.head-yellow .eyeBack-yellow:last-child {
+    margin: 50px 25px 0 0;
+    float: right;
+}
+.head-yellow .eye-yellow {
+    margin: 20% auto;
+    height: 25px;
+    width: 25px;
+    background: #0d2bd7;
+}
+.legs-yellow {
+    height: 40px;
+    width: 0;
+    border-right: 38px solid yellow;
+    border-left: 38px solid yellow;
+    border-bottom: 40px solid transparent;
+    display: block;
+    float: left;
+}
